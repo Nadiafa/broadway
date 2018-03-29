@@ -1,0 +1,83 @@
+body {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h4 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+nav, nav a, h3, div, div a {
+  color: white;
+}
+
+nav {
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+}
+
+nav a {
+  display: block;
+  font-size: 18px:
+}
+
+h3 {
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+  font-size: 23px;
+  font-weight: bold;
+}
+
+div {
+  text-align: left;
+  font-size: 11px;
+  background-color: dimgray;
+}
+
+
+
+
+/*<nav>
+    <h1>Broadway Design</h1>
+    <a href="#">Home</a>
+    <a href="#">Process</a>
+    <a href="#">Work</a>
+    <a href="#">Team</a>
+    <a href="#">Contact</a>
+  </nav>
+  <h2>Our Process</h2>
+  <img src="resources/images/identify.svg" alt="identify icon">
+  <h4>Identify</h4>
+  <p>We focus on the most important details.</p>
+  <img src="resources/images/understand.svg" alt="understand icon">
+  <h4>Understand</h4>
+  <p>We study our projects inside and out.</p>
+  <img src="resources/images/execute.svg" alt="execute icon">
+  <h4>Execute</h4>
+  <p>We put everything we have into our work.</p>
+  <h3>Designed in New York</h3>
+  <h4>Portfolio</h4>
+  <p>Coming Soon</p>
+  <h4>Team</h4>
+  <p>We're Hiring!</p>
+  <h4>Contact</h4>
+  <p>Phone: (555)-555-5555</p>
+  <p>E-mail: test@example.com</p>
+  <p>Twitter: @test</p>
+  <div>
+    <p>&copy; Broadway 2016
+    <a href="#">Home</a>
+    <a href="#">About</a>
+    <a href="#">Work</a>
+    <a href="#">Team</a>
+    <a href="#">Contact</a></p>
+  </div> */
